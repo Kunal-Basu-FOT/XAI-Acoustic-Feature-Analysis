@@ -3,7 +3,7 @@
 This repository contains my research on applying **Explainable AI (XAI)** to identify the acoustic features that drive **voice-recognition models**. The project combines classical signal processing with model-agnostic interpretability methods to understand how different classifiers use spectral information to distinguish speakers, including challenging cases such as **identical twins**.
 
 This work was **accepted for presentation** at the  
-**International Conference on Innovations in Science and Technology: A Perspective of Viksit Bharat@2047 (2024)**  
+**International Conference on Innovations in Science and Technology: A Perspective of Viksit Bharat@2047 (2025)**  
 Track 5: *Frontiers in Physics and Emerging Trends in Electronics*.
 
 ## 🔍 Overview

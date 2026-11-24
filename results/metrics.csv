@@ -1,0 +1,6 @@
+model,training_cv_accuracy,test_accuracy,training_n,test_n
+KNN,0.9590,0.9505,707,303
+Random forest,0.9703,0.9571,707,303
+MLP,0.9646,0.9868,707,303
+SVM (linear),0.9745,0.9835,707,303
+XGBoost,0.8557,0.8746,707,303

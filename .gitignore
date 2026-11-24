@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+RawSamples/
+ReSampled/
+Filtered_Samples/
+training/
+testing/
+*.wav
+*.xlsx
+*.pkl
+*.joblib
